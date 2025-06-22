@@ -7,7 +7,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
+# we change code remotly and now we want to get it from remore poject(changes are made our teammate)
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
