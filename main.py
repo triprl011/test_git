@@ -15,8 +15,9 @@ def print_hi2(name):
     print(f'Hi 2 from your collegue 2, {name}')  # Press ⌘F8 to toggle the breakpoint.
 # we change code remotly and now we want to get it from remore poject(changes are made our teammate)
 
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi2('PyCharm')
+    print_hi2('PyCharm 2')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
