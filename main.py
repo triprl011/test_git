@@ -12,7 +12,11 @@ def print_hi3(name):
 
 def print_hi4(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi from your collegue, {name}')  # Press ⌘F8 to toggle the breakpoint.
+    print(f'Hi llegue, {name}')  # Press ⌘F8 to toggle the breakpoint.
+
+def print_hi5(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hi llegue, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
 
 # we change code remotely and now we want to get it from remore poject(changes are made our teammate)
